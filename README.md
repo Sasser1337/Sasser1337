@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋 , I'm Sasser!
+Hello I'm Sasser, I joined github 2 years ago, I love the python language
 
-<!--
-**Sasser1337/Sasser1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+</details>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sasser1337&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasser1337&layout=compact" height=180 />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
